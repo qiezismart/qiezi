@@ -1,0 +1,65 @@
+<!--index.wxml-->
+<view class="container">
+  <view bindtap="nPost" class="main-btn">
+    <text>发表照片或视频</text>
+  </view>
+ <view class="lists">
+  <view bindtap="toast" class="main-list">
+  
+   <view class="list-image">
+   <image mode="aspectFill" src="images/pic1.png"></image>
+   </view>
+   
+   <view class="list-text">
+    <text class="text1">昨天拍摄的西安钟楼</text>
+    <text class="text2">评论:15</text>
+   </view>
+  
+  </view>
+ 
+  <view class="main-list">
+   <view class="list-image">
+   <image mode="aspectFill" src="images/pic2.png"></image>
+   </view>
+   
+   <view class="list-text">
+    <text class="text1">昨天拍摄的西安钟楼</text>
+    <text class="text2">评论:15</text>
+   </view>
+  
+  </view>
+
+<view class="main-list">
+   <view class="list-image">
+   <image mode="aspectFill" src="images/pic3.png"></image>
+   </view>
+   
+   <view class="list-text">
+    <text class="text1">昨天拍摄的西安钟楼</text>
+    <text class="text2">评论:15</text>
+   </view>
+  
+  </view>
+
+  <view class="main-list">
+   <view class="list-image">
+   <image mode="aspectFill" src="images/act-03.png"></image>
+   </view>
+   
+   <view class="list-text">
+    <text class="text1">昨天拍摄的西安钟楼</text>
+    <text class="text2">评论:15</text>
+   </view>
+  
+  </view>
+
+  </view>
+<view class="main-menu">
+<text class="act">精品</text>
+<text>照片</text>
+<text>视频</text>
+<text>我的</text>
+</view>
+
+
+  </view>

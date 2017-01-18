@@ -1,0 +1,50 @@
+/* pages/new/new.wxss */
+.pic{
+   width:100%; 
+}
+.pic image,.add{
+  width:32.8%;
+  height: 90px;
+  padding:0;
+  margin:0;
+  border:1px solid #fff;
+  display:block;
+  float:left;
+}
+.said{
+    width:100%;
+}
+.said textarea{
+    background:#f5f5f5;
+    display: block;
+    width:100%;
+    padding:5px 0;
+}
+.section{
+    width:100%;
+    margin-top:5px;
+}
+.picker{
+    margin-left:5px;
+}
+.submit{
+    width:100%;
+    background:#6092E0;
+    position:fixed;
+    bottom:0;
+    height:40px;
+    text-align: center;
+}
+.submit text{
+    color:#fff;
+    line-height: 40px;
+}
+.add text{
+    line-height: 90px;
+    font-size:48px;
+    color:#999;
+}
+.add{
+    background:#eee;
+    text-align: center;
+}

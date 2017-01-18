@@ -1,0 +1,93 @@
+/* pages/detail/detail.wxss */
+.info{
+    width:100%;
+}
+.top{
+    height: 50px;
+    padding:5px;
+}
+.img image{
+    width:40px;
+    height: 40px;
+    border-radius: 40px;
+    margin-right:5px;
+}
+.text,.img{
+    float:left;
+}
+.text text{
+    display: block;
+}
+.text1{
+    font-size:1rem;
+}
+.text2{
+    font-size:0.7rem;
+    color:#ccc;
+    margin-top:3px;
+}
+.detail{
+    padding:5px;
+}
+.pic{
+   width:100%; 
+}
+.pic image{
+  width:32.8%;
+  height: 90px;
+  padding:0;
+  margin:0;
+  border:1px solid #fff;
+  display:block;
+  float:left;
+}
+.discuss{
+    width:100%;
+    margin-top:20px;
+}
+.discuss .title{
+    width:100%;
+    border-bottom:1px solid #ccc;
+    font-size:1rem;
+}
+.discuss .title text{
+    margin-left:10px;
+    color:#999;
+}
+.discuss .text1{
+    font-size:0.8rem;
+    color:#999;
+}
+.discuss .text2{
+    font-size:0.8rem;
+    color:#333;
+}
+.submit{
+    position:fixed;
+    width:100%;
+    bottom:0;
+   background:#000;
+   height: 40px;
+}
+.submit input{
+    width:60%;
+    float:left;  
+    margin-top:10px;
+    margin-left:10px;
+    color:#fff;
+}
+.submit .btn{
+    width:30%;
+    float:right;
+    background:#6092E0;
+    color:#fff;
+    height:40px;
+    text-align: center;
+    line-height: 40px;
+}
+.text-lit{
+    font-size:14px;
+    color:#999;
+    
+   
+}

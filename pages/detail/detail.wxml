@@ -1,0 +1,49 @@
+<view class="container">
+  <view class="info">
+    <view class="top">
+      <view class="img">
+        <image src="../index/images/pic1.png"></image>
+      </view>
+      <view class="text">
+        <text class="text1">上海一家</text>
+        <text class="text2">西安 1-7 18:30</text>
+      </view>
+    </view>
+    <view class="detail">
+      <text>看大概看撒娇的卡萨丁就赶快来静安寺单联开关加适量的空格键卢卡斯的寄过来卡是的价格连接了斯柯达寄过来就爱上打了个 卡死了的空格键拉十多个就</text>
+    </view>
+  </view>
+  <view class="pic">
+  <image src="../index/images/pic1.png"></image>
+   <image src="../index/images/pic1.png"></image>
+    <image src="../index/images/pic1.png"></image>
+     <image src="../index/images/pic1.png"></image>
+      <image src="../index/images/pic1.png"></image>
+       <image src="../index/images/pic1.png"></image>
+        <image src="../index/images/pic1.png"></image>
+         <image src="../index/images/pic1.png"></image>
+          <image src="../index/images/pic1.png"></image>
+  </view>
+  <view class="discuss">
+  <view class="title">
+  <text >评论</text>
+  <text class="text-lit">23条</text>
+  </view>
+   
+     <view class="top">
+      <view class="img">
+        <image src="../index/images/pic1.png"></image>
+      </view>
+      <view class="text">
+        <text class="text1">上海一家</text>
+        <text class="text2">西安 1-7 18:30</text>
+      </view>
+    </view>
+  </view>
+  <view class="submit">
+  <input placeholder="说点什么"/>
+  <view class="btn">
+  <text>提交评论</text>
+  </view>
+  </view>                       
+</view>

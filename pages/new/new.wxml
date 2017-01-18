@@ -1,0 +1,32 @@
+<view class="container">
+<view class="said">
+<textarea placeholder="写点什么吧" />
+
+</view>
+
+
+ <view class="pic">
+  <image src="../index/images/pic1.png"></image>
+   <image src="../index/images/pic1.png"></image>
+    <image src="../index/images/pic1.png"></image>
+     <image src="../index/images/pic1.png"></image>
+      <image src="../index/images/pic1.png"></image>
+       <image src="../index/images/pic1.png"></image>
+        <image src="../index/images/pic1.png"></image>
+         <image src="../index/images/pic1.png"></image>
+          <view class="add">
+          <text>+</text>
+          </view>
+  </view>
+<view class="section">
+  <picker bindchange="bindPickerChange" value="{{index}}" range="{{array}}">
+    <view class="picker">
+      所在位置：{{array[index]}}
+    </view>
+  </picker>
+</view>
+
+<view class="submit">
+<text>发表</text>
+</view>
+</view>
