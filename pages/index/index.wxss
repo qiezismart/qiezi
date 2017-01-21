@@ -11,7 +11,6 @@
 }
 .lists{
   width:100%;
-  margin-bottom:40px;
 }
 .main-list{
   width:100%;
@@ -44,23 +43,4 @@
 .list-text .text2{
   float:right;
   padding:5px;
-}
-
-.main-menu{
-  height: 40px;
-  width:100%;
-  background:#000;
-  position:fixed;
-  bottom:0;
-  color:#fff;
-}
-.main-menu text{
-  width:25%;
-  display: inline-block;
-  text-align: center;
-  padding-top:10px;
-  
-}
-.main-menu .act{
-color:#6092E0;
 }

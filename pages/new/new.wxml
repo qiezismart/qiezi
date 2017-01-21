@@ -6,14 +6,14 @@
 
 
  <view class="pic">
-  <image src="../index/images/pic1.png"></image>
-   <image src="../index/images/pic1.png"></image>
-    <image src="../index/images/pic1.png"></image>
-     <image src="../index/images/pic1.png"></image>
-      <image src="../index/images/pic1.png"></image>
-       <image src="../index/images/pic1.png"></image>
-        <image src="../index/images/pic1.png"></image>
-         <image src="../index/images/pic1.png"></image>
+  <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+   <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+    <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+     <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+      <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+       <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+        <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+         <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
           <view class="add">
           <text>+</text>
           </view>

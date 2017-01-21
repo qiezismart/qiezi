@@ -1,6 +1,9 @@
 {
   "pages":[
     "pages/index/index",
+    "pages/photo/photo",
+    "pages/video/video",
+    "pages/my/my",
     "pages/logs/logs",
     "pages/detail/detail",
     "pages/new/new"
@@ -10,5 +13,36 @@
     "navigationBarBackgroundColor": "#000",
     "navigationBarTitleText": "茄紫摄影",
     "navigationBarTextStyle":"#fff"
-  }
+  },
+  "tabBar": {
+    "backgroundColor": "#000000",
+    "selectedColor": "#6092E0",
+    "color": "#eeeeee",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "精品",
+      "iconPath":"pages/images/icon1.png",
+      "selectedIconPath":"pages/images/icon1-act.png"
+    }, {
+      "pagePath": "pages/photo/photo",
+      "text": "照片",
+       "iconPath":"pages/images/icon2.png",
+      "selectedIconPath":"pages/images/icon2-act.png"
+    }, {
+      "pagePath": "pages/video/video",
+      "text": "视频",
+       "iconPath":"pages/images/icon3.png",
+      "selectedIconPath":"pages/images/icon3-act.png"
+    }, {
+      "pagePath": "pages/my/my",
+      "text": "我的",
+       "iconPath":"pages/images/icon4.png",
+      "selectedIconPath":"pages/images/icon4-act.png"
+    }]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
 }

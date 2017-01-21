@@ -2,7 +2,7 @@
   <view class="info">
     <view class="top">
       <view class="img">
-        <image src="../index/images/pic1.png"></image>
+        <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
       </view>
       <view class="text">
         <text class="text1">上海一家</text>
@@ -14,15 +14,15 @@
     </view>
   </view>
   <view class="pic">
-  <image src="../index/images/pic1.png"></image>
-   <image src="../index/images/pic1.png"></image>
-    <image src="../index/images/pic1.png"></image>
-     <image src="../index/images/pic1.png"></image>
-      <image src="../index/images/pic1.png"></image>
-       <image src="../index/images/pic1.png"></image>
-        <image src="../index/images/pic1.png"></image>
-         <image src="../index/images/pic1.png"></image>
-          <image src="../index/images/pic1.png"></image>
+  <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+   <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+    <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+     <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+      <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+       <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+        <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+         <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
+          <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
   </view>
   <view class="discuss">
   <view class="title">
@@ -32,7 +32,7 @@
    
      <view class="top">
       <view class="img">
-        <image src="../index/images/pic1.png"></image>
+        <image src="http://ojyxv6mtz.bkt.clouddn.com/pic1.png"></image>
       </view>
       <view class="text">
         <text class="text1">上海一家</text>
